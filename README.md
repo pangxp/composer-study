@@ -1,2 +1,2 @@
 # composer-study
-composer和几个资源包的简单实用
+composer和几个资源包的简单试用
